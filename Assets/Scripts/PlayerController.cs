@@ -30,6 +30,10 @@ public class PlayerController : MonoBehaviour
         {
             touchXDelta = Input.GetAxis("Mouse X");
         }
+        else
+        {
+            touchXDelta = 0;
+        }
         newX = transform.position.x + xSpeed * touchXDelta * Time.deltaTime;
         newX = Mathf.Clamp(newX, -limitX, +limitX);
         Vector3 newPosition = new Vector3(newX, transform.position.y, transform.position.z + runningSpeed * Time.deltaTime);
