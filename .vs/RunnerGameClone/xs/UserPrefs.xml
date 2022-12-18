@@ -1,9 +1,9 @@
 ﻿<Properties StartupConfiguration="{5318A331-28AB-350C-3523-1158932901EB}|">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CollectCoin.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayerController.cs">
     <Files>
+      <File FileName="Assets/Scripts/CollectCoin.cs" Line="16" Column="1" />
       <File FileName="Assets/Scripts/PlayerController.cs" Line="25" Column="51" />
       <File FileName="Assets/Scripts/CamFollowPlayer.cs" />
-      <File FileName="Assets/Scripts/CollectCoin.cs" Line="11" Column="14" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +11,7 @@
           <Node name="RunnerGameClone" expanded="True">
             <Node name="Assets" expanded="True">
               <Node name="Scripts" expanded="True">
-                <Node name="PlayerController.cs" selected="True" />
+                <Node name="CollectCoin.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -21,7 +21,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="a362f361-4a9f-43e2-9389-7ae6df9b31f2" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="1474d3ac-fa65-49f9-ac3d-e864977dde4c" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
